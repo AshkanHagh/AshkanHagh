@@ -6,7 +6,12 @@
 Backend Developer, I start in last 5 month, I am very interested in learning and I see coding as a puzzle that with patience and effort eventually achieves beauty.
 
 
-# 📚 Writing
+# 📚 Learning
+
+>* Express
+>* TypeScript
+>* GraphQL 
+>* SQl Server
 
 
 ## 🛠️ Technologies & Tools
