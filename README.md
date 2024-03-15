@@ -1,19 +1,19 @@
-<img src="./Ashkan.png" width="1000">   
+<img src="./Screenshot (99).png" width="1000">   
 
 
-# 👋 Hello!
+# Hi
 
 I have been working in the backend field for 5 months, I am very interested in learning and I see coding as a puzzle that with patience and effort eventually achieves beauty.
 
 
-# 📚 Learning
+# Currently Learning
 
 >* Express
 >* TypeScript
 >* GraphQL 
 
 
-## 🛠️ Technologies & Tools
+## Technologies i use most
 
 <p align='center'>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
