@@ -13,7 +13,7 @@ I have been working in the backend field for 5 months, I am very interested in l
 >* GraphQL 
 
 
-## Technologies i use most
+## Technologies I Use Most
 
 <p align='center'>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
