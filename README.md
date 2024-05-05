@@ -3,14 +3,14 @@
 
 # Hi
 
-I have been working in the backend field for 5 months, I am very interested in learning and I see coding as a puzzle that with patience and effort eventually achieves beauty.
+I have been working in the backend field for 7 months, I am very interested in learning and I see coding as a puzzle that with patience and effort eventually achieves beauty.
 
 
 # Currently Learning
 
 >* Express
 >* TypeScript
->* Drizzle 
+>* Redis
 >* MySQL
 
 
