@@ -6,11 +6,13 @@ I'm a **Web Backend Developer** with eight months of experience in developing an
 
 ## 🌱 Currently Learning
 
-- **Express**
 - **TypeScript**
 - **Redis**
 - **Drizzle ORM**
 - **PostgreSQL**
+- **JEST**
+- **GraphQL**
+- **AWS**
 
 ## 🛠️ Technologies I Use Most
 
@@ -21,6 +23,8 @@ I'm a **Web Backend Developer** with eight months of experience in developing an
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'>
   <img src='https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white' alt='Bun'>
   <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'>
+    <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' alt='Redis'>
+  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' alt='Postgres'>
 </p>
 
 ## 📫 How to Reach Me
