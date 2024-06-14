@@ -10,9 +10,6 @@ I'm a **Web Backend Developer** with eight months of experience in developing an
 - **Redis**
 - **Drizzle ORM**
 - **PostgreSQL**
-- **JEST**
-- **GraphQL**
-- **AWS**
 
 ## 🛠️ Technologies I Use Most
 
