@@ -28,5 +28,3 @@ I'm a **Web Backend Developer** with eight months of experience in developing an
 
 - **Email**: [ashkanhagh01@gmail.com](mailto:ashkanhagh01@gmail.com)
 - **Telegram**: [AshkanHaghdoost](https://t.me/AshkanHaghdoost01)
-
-<img src='https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg' width='100%'>
