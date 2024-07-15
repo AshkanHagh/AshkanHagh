@@ -1,3 +1,4 @@
+!['Profile'](Profile.png)
 
 # Hello, I'm Ashkan 👋
 
@@ -13,14 +14,14 @@ As a dedicated Web Backend Developer with eight months of hands-on experience, I
 ## 🛠️ Technologies I Use Most
 
 <p align='center'>
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='JavaScript'>
-  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript'>
-  <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js'>
-  <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'>
-  <img src='https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white' alt='Bun'>
-  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'>
-  <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' alt='Redis'>
-  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' alt='Postgres'>
+  <img src='https://skillicons.dev/icons?i=js' alt='JavaScript' height="50" width="50" style="margin: 2px;">
+  <img src='https://skillicons.dev/icons?i=ts' alt='TypeScript' height="50" width="50" style="margin: 2px;">
+  <img src='https://skillicons.dev/icons?i=express' alt='Express.js' height="50" width="50" style="margin: 2px;">
+  <img src='https://skillicons.dev/icons?i=nodejs' alt='Node.js' height="50" width="50" style="margin: 2px;">
+  <img src='https://skillicons.dev/icons?i=bun' alt='Bun' height="50" width="50">
+  <img src='https://skillicons.dev/icons?i=mongodb' alt='MongoDB' height="50" width="50" style="margin: 2px;">
+  <img src='https://skillicons.dev/icons?i=redis' alt='Redis' height="50" width="50">
+  <img src='https://skillicons.dev/icons?i=postgres' alt='Postgres' height="50" width="50" style="margin: 2px;">
 </p>
 
 ## 📫 How to Reach Me
