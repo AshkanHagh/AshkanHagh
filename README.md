@@ -1,4 +1,4 @@
-!['Profile'](Profile.png)
+<!-- !['Profile'](Profile.png)
 
 # Hello, I'm Ashkan 👋
 
@@ -27,4 +27,4 @@ As a dedicated Web Backend Developer with eight months of hands-on experience, I
 ## 📫 How to Reach Me
 
 - **Email**: [ashkanhagh01@gmail.com](mailto:ashkanhagh01@gmail.com)
-- **Telegram**: [AshkanHagh01](https://t.me/AshkanHagh01)
+- **Telegram**: [AshkanHagh01](https://t.me/AshkanHagh01) -->
