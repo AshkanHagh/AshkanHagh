@@ -19,27 +19,23 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-```
-           .             ​ ashkanHagh@backend
-          .c.           ┌───────────────────────────────┐
-         .ccc.           ​ Languages : Rust, TypeScript
-        .lllll.          ​ Frameworks : Actix, Nest.js
-       ..;'olll.         ​ Database  : PostgreSQL, Redis
-      .dolllcccl.        ​ Tools     : Docker
-     .lcc'   'ccc.       ​ Testing   : Unit, Integration
-    .ccc'     'cc:.      ​ Focus     : APIs
-   .cccc'     'c:;..    └───────────────────────────────┘
-  ."'             '".     A   S   H   K   A   N
-```
+<!-- ===== Tech Stack (centered, kept minimal to match your theme) ===== -->
 
+<div align="center">
 
-<p align="center">
-<samp>
-  <sup>
-    <b>
-    <i>social media</i>
+<p>
+  <samp>
+    <b>Languages:</b> TypeScript, Rust
     <br>
-    <a href="https://t.me/AshkanHaghdoost">Telegram</a> |
-  </sup>
-</samp>
+    <b>Frameworks:</b> NestJS, Actix Web, Express, Hono
+    <br>
+    <b>Databases:</b> MongoDB, PostgreSQL, Redis
+    <br>
+    <b>Tools:</b> Docker, Jest
+  </samp>
 </p>
+
+</div>
+
+<!-- ================= end Tech Stack ================= -->
+
