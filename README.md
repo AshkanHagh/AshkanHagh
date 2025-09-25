@@ -8,8 +8,7 @@
       </b>
       <br>
         Backend Developer with 3 years of experience in building scalable applications using TypeScript, NestJS/Express,
-        PostgreSQL, MongoDB, and Docker. Skilled in SQL, system design, and developing RESTful APIs, with a proven
-        ability to tackle complex challenges and build diverse backend solutions.
+        PostgreSQL, MongoDB, and Docker. Skilled in SQL, system design, and developing RESTful APIs.
       <br>
       <br>
       <b>
@@ -18,8 +17,6 @@
     </samp>
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
-
-<!-- ===== Tech Stack (centered, kept minimal to match your theme) ===== -->
 
 <div align="center">
 
@@ -36,6 +33,3 @@
 </p>
 
 </div>
-
-<!-- ================= end Tech Stack ================= -->
-
