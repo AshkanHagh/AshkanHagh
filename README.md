@@ -4,7 +4,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello world!
+        Hello!
       </b>
       <br>
         Backend Developer with 3 years of experience in building scalable applications using TypeScript, NestJS/Express,
@@ -33,3 +33,4 @@
 </p>
 
 </div>
+
