@@ -22,9 +22,9 @@
 
 <p>
   <samp>
-    <b>Languages:</b> TypeScript, Rust
+    <b>Languages:</b> TypeScript
     <br>
-    <b>Frameworks:</b> NestJS, Actix Web, Express, Hono
+    <b>Frameworks:</b> NestJS, Express, Hono
     <br>
     <b>Databases:</b> MongoDB, PostgreSQL, Redis
     <br>
@@ -33,4 +33,5 @@
 </p>
 
 </div>
+
 
