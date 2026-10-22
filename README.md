@@ -1,31 +1,40 @@
 <div align="justify">
-<p align="left"><strong><samp><i>「</i></samp></strong></p>
+  <p align="left"><strong><samp><i>「</i></samp></strong></p>
+
   <p align="center">
     <samp>
       <b>Hello!</b>
       <br>
-      Backend developer with 3 years of experience — I work across the full backend spectrum,
-      from scalable REST APIs, bots, web crawlers and game servers to DevOps pipelines and containerized deployments.
       <br>
+      Backend engineer with 3 years of experience building
+      complex backend systems across different domains.
       <br>
-      I freelance and run self-hosted projects of my own,
-      which means I don't just write code — I ship, maintain, and live with it.
+      My work revolves around REST APIs, event-driven
+      architectures, asynchronous processing, and AI pipelines.
+      <br>
+      I'm interested in system design, cloud architecture,
+      DevOps pipelines, and operating production systems.
       <br>
       <br>
       <b>~ Ashkan Haghdoost (@AshkanHagh) ~</b>
     </samp>
   </p>
-<p align="right"><strong><samp><i>」</i></samp></strong></p>
-<div align="center">
-<p>
-  <samp>
-    <b>Languages:</b> TypeScript
-    <br>
-    <b>Frameworks:</b> NestJS, Fastify, Express
-    <br>
-    <b>Databases:</b> PostgreSQL, Redis
-    <br>
-    <b>Tools:</b> Docker, Nginx, GitHub Actions, Vitest
-  </samp>
-</p>
+
+  <p align="right"><strong><samp><i>」</i></samp></strong></p>
+
+  <div align="center">
+    <p>
+      <samp>
+        <b>Languages:</b> TypeScript
+        <br>
+        <b>Backend:</b> NestJS, Fastify, Express
+        <br>
+        <b>Databases:</b> PostgreSQL, Redis, SQLite
+        <br>
+        <b>Queues & Messaging:</b> BullMQ, Kafka
+        <br>
+        <b>DevOps & Tools:</b> Docker, Traefik, GitHub Actions, Vitest
+      </samp>
+    </p>
+  </div>
 </div>
